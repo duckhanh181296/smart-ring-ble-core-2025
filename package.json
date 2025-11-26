@@ -1,0 +1,9 @@
+{
+  "name": "rn-ble-health-sync",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "author": "Your Name",
+  "keywords": ["react-native", "ble", "wearable", "health-sync", "gatt"],
+  "homepage": "https://github.com/your-username/rn-ble-health-sync"
+}
